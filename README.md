@@ -23,6 +23,8 @@
 7. Seborrheic keratosis
 8. Squamous cell carcinoma
 9. Vascular lesion
+### Sample Input Images
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/44e0a55b-2a01-4d39-a6e7-d01e631573d8">
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
