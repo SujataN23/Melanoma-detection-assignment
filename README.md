@@ -29,6 +29,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+
+### Output after training last model
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/a2daeec0-c0cb-4d5c-b391-c20e39926843">
 
 
@@ -41,14 +43,17 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - 2.1.4
+- numpy - 1.24.3
+- matplotlib - 3.7.2
+- keras - 3.5.0
+- seaborn - 0.13.2
+- tensorflow - 2.17.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SujataN23] - feel free to contact me!
 
 
 <!-- Optional -->
